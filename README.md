@@ -945,4 +945,4 @@ func main() {
 ```
 
 ### See also
-* [jsonapi-client-go](https://github.com/pieoneers/jsonapi-client-go)
+* [jsonapi-client-go](https://github.com/vorsprung/jsonapi-client-go)
