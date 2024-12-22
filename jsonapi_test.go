@@ -7,7 +7,7 @@ package jsonapi_test
 import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	. "github.com/pieoneers/jsonapi-go"
+	. "github.com/vorsprung/jsonapi-go"
 	"sort"
 )
 

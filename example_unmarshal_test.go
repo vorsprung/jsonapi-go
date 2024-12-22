@@ -2,7 +2,7 @@ package jsonapi_test
 
 import (
 	"fmt"
-	"github.com/pieoneers/jsonapi-go"
+	"github.com/vorsprung/jsonapi-go"
 	"time"
 )
 
